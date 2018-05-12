@@ -4,15 +4,18 @@ Statistics Notebooks is a project initiated for fun and to help me better grasp 
 # Table of content
 
 1. Distributions
-1.1. Discrete distributions:
-	* Bernulli
-	* Binomial
-	* Hypergeometric
-	* Geometric
-	* Poisson
-1.2 Continious distributions:
-	* Uniform
-	* Normal
-	* Student's T
-	* Chi-squared
-	* Fisher's
+	1. Discrete distributions:
+		* Bernulli
+		* Binomial
+		* Hypergeometric
+		* Geometric
+		* Poisson
+	2. Continious distributions:
+		* Uniform
+		* Normal
+		* Standard Normal
+		* Multivariate Normal
+		* Student's T
+		* Chi-squared
+		* Fisher's (F)
+2. Central Limit Theorem
